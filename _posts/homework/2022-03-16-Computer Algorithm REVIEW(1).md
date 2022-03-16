@@ -14,7 +14,9 @@ n이 작을수록 성능이 좋음
 
 즉 O(n^3) 보다 O(n^2)이 성능이 좋고 그보다 O(n)이 성능이 좋다
 
-![](https://postfiles.pstatic.net/MjAyMTA0MjBfMTk1/MDAxNjE4OTIyMzk0MTgy.j2_O_rezeM6d-n2smkdQN1QZSEiTUaGzza8GJJ5c34gg.bOmTpWBXxOiz6YtkkNTelZQ_kXTEeRyM5-bpsZaGTdog.PNG.010203sj/10.PNG?type=w773)
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FmzozV%2FbtqCDkBbnhF%2F6sx2a6ct1pBVdzQ7Esurj1%2Fimg.png)
+
+**그림출처 https://atoz-develop.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EC%84%A4%EA%B3%84%EC%99%80-%EB%B6%84%EC%84%9D-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84%EC%99%80-%EC%A0%90%EA%B7%BC%EC%84%B1%EB%8A%A5**
 
 ***Ω(오메가)(점근적 하한)***
 
@@ -24,9 +26,13 @@ n이 높을수록 성능이 좋음
 
 즉 Ω(n)보다 Ω(n^2)이 성능이 좋고 그보다 Ω(n^3)이 성능이 좋다
 
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcTD1Sn%2FbtqCz558nqN%2FXDURNI4wwIuq4Q0doH5kGK%2Fimg.png)
+
 ***Θ(세타)***
 
 O와 Ω의 접점이 Θ 라고 볼 수 있다
+
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F0LfpM%2FbtqCBx8I85m%2FvwP3zSVUMB3k4Qqx3o95C1%2Fimg.png)
 
 ***그럼 어디까지 쓸만한 알고리즘일까?***
 
